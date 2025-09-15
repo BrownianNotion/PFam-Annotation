@@ -8,3 +8,7 @@ tqdm
 seaborn
 catboost
 scikit-learn
+polars
+pre-commit
+ruff
+fastparquet
