@@ -2,7 +2,9 @@ numpy
 pandas
 matplotlib
 torch
+jupyter
 ipykernel
+ipywidgets
 wandb
 tqdm
 seaborn
