@@ -12,3 +12,5 @@ polars
 pre-commit
 ruff
 fastparquet
+transformers
+huggingface
